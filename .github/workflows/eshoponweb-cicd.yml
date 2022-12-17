@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 70da7158-fa8e-475a-9f2d-76afb2877ed4
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: sripranav
 
 
 jobs:
